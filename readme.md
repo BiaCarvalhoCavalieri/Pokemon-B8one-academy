@@ -2,4 +2,4 @@ Este foi o último módulo da primeira parte do curso da B8One.Academy, o projet
 
 Futuramente farei algumas melhorias de busca e responsividade. 
 
-Acesse projeto pelo link:
+Acesse projeto pelo link: https://bia3003.github.io/Pokemon-B8one-academy/
